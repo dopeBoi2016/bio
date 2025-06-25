@@ -1,4 +1,3 @@
-<h1 align="center">⚡ Mega Mind Mode Activated</h1>
 <p align="center">
   <strong>@dopeBoi2016</strong> — Full Stack & Frontend Dev | Reverse Engineer | Functional Programming Addict
 </p>
