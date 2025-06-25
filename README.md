@@ -1,3 +1,4 @@
+<h1 align="center">⚡ Mega Mind Mode Activated</h1>
 <p align="center">
   <strong>@dopeBoi2016</strong> — Full Stack & Frontend Dev | Reverse Engineer | Functional Programming Addict
 </p>
@@ -6,7 +7,7 @@
 
 ### 🧠 About Me
 I'm **@dopeBoi2016**, a developer who breaks and builds at the same time.  
-From clean UI design to dissecting binaries, I do it all.
+From sleek UI design to dissecting binaries, I do it all.
 
 ---
 
@@ -27,18 +28,17 @@ From clean UI design to dissecting binaries, I do it all.
 - 🔵 **VSCode** – main playground  
 - 🧠 **IDA Pro** – binary domination  
 - 🔥 **HTTP Debugger Pro** – network wizardry  
-- 🧱 **Blender** – 3D edits, custom assets  
-- ⚙️ **UE4 / UEFN** – game logic & level design
+- 🧱 **Blender** – 3D edits & asset creation  
+- ⚙️ **UE4 / UEFN** – game logic & level design powerhouse
 
 ---
 
 ### 👾 Projects & Passions
-- Custom launchers with clean animations  
-- Reverse engineering games & apps  
-- Making web UIs feel like a god-tier experience
+- Custom launchers with slick animations  
+- Reverse engineering apps & games  
+- Crafting web UIs with god-tier energy
 
 ---
 
 > _“Code is the Matrix. I’m just rewriting the simulation.”_  
 > — **@dopeBoi2016**
-
