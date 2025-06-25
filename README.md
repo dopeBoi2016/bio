@@ -1,15 +1,27 @@
-## ⚡ Mega Mind Mode Activated
+<p align="center">
+  <strong>@dopeBoi2016</strong> — Full Stack & Frontend Dev | Reverse Engineer | Functional Programming Addict
+</p>
 
-🧠 Full Stack Developer | 🎨 Frontend Wizard | 🛠️ Reverse Engineer
+---
+
+### 🧠 About Me
+I'm **@dopeBoi2016**, a developer who breaks and builds at the same time.  
+From clean UI design to dissecting binaries, I do it all.
+
+---
 
 ### 🚀 Tech Arsenal
 - **Languages:** JavaScript, TypeScript, HTML/CSS, C++, Python, C#, Batch, Shell, Assembly (x86/x64)
 - **Frameworks/Tools:** React, Node.js, Express, Electron, Tailwind, Bootstrap, Vite
 
+---
+
 ### 🧩 Functional & Reverse Engineering
 - I craft snippets, bypasses, and tools that bend the rules.
-- Functional programming believer with a deep love for pure logic & clean code.
-- Break stuff down, build new realities.
+- Functional programming believer with a deep love for clean logic.
+- Break software down, rebuild it stronger.
+
+---
 
 ### 🧰 Tools of the Trade
 - 🔵 **VSCode** – main playground  
@@ -18,9 +30,15 @@
 - 🧱 **Blender** – 3D edits, custom assets  
 - ⚙️ **UE4 / UEFN** – game logic & level design
 
-### 👾 Hobbies
-- Building cracked-style launchers  
-- Making web apps with serious UI sauce  
-- Reverse engineering apps and games for fun (and knowledge 😉)
+---
 
-> _“Code is the Matrix. I’m just rewriting the simulation.”_
+### 👾 Projects & Passions
+- Custom launchers with clean animations  
+- Reverse engineering games & apps  
+- Making web UIs feel like a god-tier experience
+
+---
+
+> _“Code is the Matrix. I’m just rewriting the simulation.”_  
+> — **@dopeBoi2016**
+
