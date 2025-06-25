@@ -22,5 +22,5 @@
 - Building cracked-style launchers  
 - Making web apps with serious UI sauce  
 - Reverse engineering apps and games for fun (and knowledge 😉)
-![image](https://github.com/user-attachments/assets/b01d51e6-39ee-4723-bfc4-0bfd5b71f1b1)
-https://github.com/dopeBoi2016
+
+> _“Code is the Matrix. I’m just rewriting the simulation.”_
